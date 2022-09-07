@@ -1,9 +1,9 @@
 package deanonymization
 
 import (
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/Jagsec/onionscan/config"
+	"github.com/Jagsec/onionscan/report"
+	"github.com/Jagsec/onionscan/utils"
 )
 
 // ExtractIdentifierStep is a pipeline step which extracts as many relationships
